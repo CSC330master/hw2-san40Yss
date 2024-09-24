@@ -1,0 +1,5 @@
+Q6
+we can use mime-types to set the right content type for all files
+
+Q7
+combine file serving routing and query handling in one server using if statements to check paths serve files or handle api requests

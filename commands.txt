@@ -1,0 +1,29 @@
+linux commands:
+pwd - prints current directory (print working directory)
+mkdir - creates new directory (make directory)
+cd - change directory, .. - go back
+ls - list items. list items in the directory -l - list, -t - sort by modification, -r - reverse sort
+pico is a text redactor, -l - line numbers
+git commands:
+git config --global user.(email/name) sets an email and name for commits
+git clone - clones repository on your computer
+git status - shows status of files and changes
+git add - adds file to the repo
+git commit - commits changes with description 
+git push - pushes commited changes to the repository
+
+	i
+1 You are encouraged to work on these assignments in pairs (unless otherwise specified), but you also have the choice to work on them individually. If you choose to work in a pair, both students will receive the same grade.
+2 Similarly, you can discuss your ideas with your classmates for homework assignments. However, do not do your homework with individuals outside of your group.
+
+	ii
+1 You can consult any available resources (printed or online) when doing homework assignments, except generative AI tools, like ChatGPT. Always read and understand the material you find. Then put it aside and start writing your own answer. This ensures that the work you submit is different enough that it becomes your own.
+2 You are welcome to use concepts that were not covered in class, which you might already know or found online, but you must be able to verbally explain your solution and show thorough understanding of the concepts you used, when asked.
+3 To ensure academic honesty, please include your sources (and the names of fellow students with whom you brainstormed) as a separate document, to be submitted with each assignment.
+
+	iii
+Late assignments will be accepted; however, there will be a penalty of 10% per day for submitting late assignments. Exceptions will be granted on an individual basis, and only for extreme circumstances.
+
+	iv
+1 Regular class attendance is expected by the University and is the responsibility of the student. It is the responsibility of the student to understand the attendance policy in each course he or she takes, as outlined in each course syllabus.
+2When absent, students remain responsible for finding out what class activities occurred during the absence and making up missed work if the instructor permits it.
